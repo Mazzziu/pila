@@ -3,4 +3,4 @@ project(nodos)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(nodos main.cpp)
+add_executable(nodos main.cpp funciones.cpp funciones.h)

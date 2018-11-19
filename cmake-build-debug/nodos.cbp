@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.cpp">
+			<Option target="nodos"/>
+		</Unit>
+		<Unit filename="/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.h">
+			<Option target="nodos"/>
+		</Unit>
 		<Unit filename="/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/main.cpp">
 			<Option target="nodos"/>
 		</Unit>

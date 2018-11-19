@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.cpp
+funciones.h
+/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.h
+
+/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.h
+
+/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/main.cpp
+iostream
+-
+funciones.h
+/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Matt/Programacion/nodos/funciones.h
+
